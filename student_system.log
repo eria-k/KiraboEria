@@ -1,0 +1,23 @@
+2026-06-28 10:30:00,123 - INFO - ==================================================
+2026-06-28 10:30:00,124 - INFO - STUDENT SYSTEM STARTED
+2026-06-28 10:30:00,124 - INFO - ==================================================
+2026-06-28 10:30:00,125 - INFO - Created students.csv
+2026-06-28 10:30:00,126 - INFO - Created students_details.json
+2026-06-28 10:30:15,234 - INFO - Add student operation started
+2026-06-28 10:30:15,235 - INFO - Student added: S100000001 - Kirabo Eria
+2026-06-28 10:30:15,236 - INFO - Add student operation completed
+2026-06-28 10:35:22,456 - INFO - Add student operation started
+2026-06-28 10:35:22,457 - INFO - Student added: S100000002 - Sarah Smith
+2026-06-28 10:35:22,458 - INFO - Add student operation completed
+2026-06-28 10:40:05,567 - INFO - Add student operation started
+2026-06-28 10:40:05,568 - INFO - Student added: S100000003 - John Doe
+2026-06-28 10:40:05,569 - INFO - Add student operation completed
+2026-06-28 10:45:30,678 - INFO - View all students operation started
+2026-06-28 10:45:30,679 - INFO - Displayed 3 students
+2026-06-28 10:50:45,789 - INFO - Search students operation started
+2026-06-28 10:50:45,790 - INFO - Search completed. Found 1 results for 'Kirabo'
+2026-06-28 10:55:12,345 - INFO - Update student operation started
+2026-06-28 10:55:12,346 - INFO - Student updated: S100000001
+2026-06-28 11:00:00,123 - INFO - Delete student operation started
+2026-06-28 11:00:00,124 - INFO - Student deleted: S100000003
+2026-06-28 11:05:00,456 - INFO - SYSTEM EXITED

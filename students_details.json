@@ -1,0 +1,32 @@
+{
+    "S100000001": {
+        "address": "Kampala, Uganda",
+        "contact": "+256-701-234567",
+        "email": "eria@example.com",
+        "date_added": "2026-06-28 10:30:15"
+    },
+    "S100000002": {
+        "address": "Entebbe, Uganda",
+        "contact": "+256-772-123456",
+        "email": "sarah@example.com",
+        "date_added": "2026-06-28 10:35:22"
+    },
+    "S100000003": {
+        "address": "Jinja, Uganda",
+        "contact": "+256-755-987654",
+        "email": "john@example.com",
+        "date_added": "2026-06-28 10:40:05"
+    },
+    "S100000004": {
+        "address": "Gulu, Uganda",
+        "contact": "+256-789-456123",
+        "email": "alice@example.com",
+        "date_added": "2026-06-28 10:45:30"
+    },
+    "S100000005": {
+        "address": "Mbarara, Uganda",
+        "contact": "+256-701-789012",
+        "email": "robert@example.com",
+        "date_added": "2026-06-28 10:50:45"
+    }
+}
